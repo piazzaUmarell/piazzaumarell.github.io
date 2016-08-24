@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	  <channel>
+		<title>Piazza Umarell</title>
+		<link>piazzaumarell.github.io</link>
+		<language>it</language>
+		<itunes:subtitle>Il podcast per vecchi pezzi di Nerd</itunes:subtitle>
+		<itunes:author>Francesco&amp;Geralt</itunes:author>
+		<itunes:summary>Due umarell si incontrano al bar per parlare di tutto e non concludere mai nulla. Ai microfoni Geralt e Francesco si cimenteranno in discorsi che vanno dalla matematica all&#x27;esplorazione spaziale..con ( si spera ) tanti ospiti pronti a discuterne con loro.</itunes:summary>  
+		<itunes:owner>
+		  <itunes:name>Francesco Lisi</itunes:name>
+		  <itunes:email>lisi.franc@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="/risorse/logo.jpg" />
+		<itunes:category text="Games &amp; Hobbies"/>
+		
+		  <item>
+			<title>Piazza Umarell #0 - Latte e menta</title>
+			<itunes:author>Francesco&amp;Geralt</itunes:author>
+			<itunes:subtitle>Si parte!</itunes:subtitle>
+			<itunes:summary>Inizia col botto la prima puntata, chiamata puntata ZERO per darci un tono da serie tv americana. Gli argomenti li troverete sul sito piazzaumarell.github.io</itunes:summary>
+			<itunes:image href="" />
+			<enclosure url="" length="" type="audio/mpeg"/>
+			<guid></guid>
+			<pubDate>Wed Aug 25 2016 11:46:43 GMT+0200 (ora legale Europa occidentale)</pubDate>
+			<itunes:duration>2:24:20</itunes:duration>
+		  </item>
+		
+	  </channel>
+  </rss>
